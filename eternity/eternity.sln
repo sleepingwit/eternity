@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabFileGrinder", "TabFileGrinder\TabFileGrinder.csproj", "{83E49E33-86AA-4E18-93AB-1343B1C16793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabFileGrinderTest", "TabFileGrinderTest\TabFileGrinderTest.csproj", "{1DC56732-C5F8-48B8-AAB5-786FB386CB58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CodeAnalysis|Any CPU = CodeAnalysis|Any CPU
@@ -18,6 +20,12 @@ Global
 		{83E49E33-86AA-4E18-93AB-1343B1C16793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E49E33-86AA-4E18-93AB-1343B1C16793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E49E33-86AA-4E18-93AB-1343B1C16793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC56732-C5F8-48B8-AAB5-786FB386CB58}.CodeAnalysis|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC56732-C5F8-48B8-AAB5-786FB386CB58}.CodeAnalysis|Any CPU.Build.0 = Release|Any CPU
+		{1DC56732-C5F8-48B8-AAB5-786FB386CB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC56732-C5F8-48B8-AAB5-786FB386CB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC56732-C5F8-48B8-AAB5-786FB386CB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC56732-C5F8-48B8-AAB5-786FB386CB58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
